@@ -1,33 +1,47 @@
+
+
 # Fog Computing, Edge Computing e Redes nebulosas
 
-Para melhor entendimento sobre Fog, Edge computing e redes nebulosas, é fundamental compreender sobre Cloud Computin, pois os conceitos sobre as formas de computação mencionadas dependem diretamente da nuvem.
-	Introdução ao Cloud Computing:
-- "Resumindo, a computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam." 
+<p align="center">
+  <img width="460" height="300" src="https://cdn.dribbble.com/users/19532/screenshots/1654816/media/392a7eec41acce24ec7df16659836f23.gif">
+</p>
+
+
+Para melhor entender o que é Fog Computing, Edge computing e redes nebulosas, é fundamental compreender um pouco do funcionamento do Cloud Computing, pois os conceitos sobre as formas de computação mencionadas dependem diretamente da nuvem. 
+
+# O que é Cloud Computing?
+A computação em nuvem é o fornecimento terceirizado de serviços de computação, como armazenamento, base de dados, rede, infraestrutura, análise de dados, software, através da Internet, e tem como objetivo fornecer soluções escaláveis, reduzir custos com infraestrutura, contratações, manutenção e renovação de licenças.
+<br/>Tipos de serviço Cloud:
+<br/>
+<br/><br/>Na computaçãoormalmente, você só paga pelos recursos utilizados, e existem diversas formas de cobrança, variando entre os fornecedores de nuvem.
+
+
+A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam." 
 - Terceirização de infraestrutura: redução de custos com infra, elasticidade
 - Tipos de serviço: Paas(heroku), Saas(Google Docs) e Iaas (com exemplos)
 2. Fog computing:
 - Possui o objetivo de superar os problemas de latência da computação em nuvem
 
-# Fog Computing, Edge Computing e Redes nebulosas
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![GitHub lastModified](https://img.shields.io/aur/last-modified/paulorgomes%20/%20FogComputing)
-<img src="exemplo-image.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
-### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 💻 Pré-requisitos
 
