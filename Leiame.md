@@ -11,9 +11,13 @@ Para melhor entender o que é Fog Computing, Edge computing e redes nebulosas, �
 
 # O que é Cloud Computing?
 A computação em nuvem é o fornecimento terceirizado de serviços de computação, como armazenamento, base de dados, rede, infraestrutura, análise de dados, software, através da Internet, e tem como objetivo fornecer soluções escaláveis, reduzir custos com infraestrutura, contratações, manutenção e renovação de licenças. Geralmente é utilizado um servidor armazenado na nuvem, que "não existe", ou seja, em um ambiente virtualizado, pronto para atender as demandas do cliente.
-<br/>
 ### Tipos de serviço Cloud:
-* Iaas: A infraestrutura como um serviço (IaaS) é um tipo de serviço da computação em cloud na qual o fornecedor oferece ao contratante acesso a recursos de  computação, como armazenamento, redes e servidores, onde o cliente pode rodar seus aplicativos, softwares, armazenar dados, entre outras funcionalidades.
+* Iaas: A infraestrutura como um serviço (IaaS) é um tipo de serviço da computação em cloud na qual o fornecedor oferece ao contratante acesso a recursos de  computação, como armazenamento, redes e servidores, onde o cliente pode rodar seus aplicativos, softwares, armazenar dados, entre outras funcionalidades. Exemplos de IAAS:
+  - [Amazon Web Services (AWS)](https://aws.amazon.com/pt/)
+  - [Google Cloud Platform (GCP)](https://cloud.google.com/)
+  - [Microsoft Azure](https://azure.microsoft.com/pt-br/)
+  - [Cherry Servers](https://www.cherryservers.com/)
+  - Entre outros.
 
 
 <br/><br/>Na computação em Nuvem você só paga pelos recursos utilizados, e existem diversas formas de cobrança, variando entre os fornecedores de nuvem.
