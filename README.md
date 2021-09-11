@@ -10,10 +10,13 @@
 Para melhor entender o que é Fog Computing, Edge computing e redes nebulosas, é fundamental compreender um pouco do funcionamento do Cloud Computing, pois os conceitos sobre as formas de computação mencionadas dependem diretamente da nuvem. 
 
 # O que é Cloud Computing?
-A computação em nuvem é o fornecimento terceirizado de serviços de computação, como armazenamento, base de dados, rede, infraestrutura, análise de dados, software, através da Internet, e tem como objetivo fornecer soluções escaláveis, reduzir custos com infraestrutura, contratações, manutenção e renovação de licenças.
-<br/>Tipos de serviço Cloud:
+A computação em nuvem é o fornecimento terceirizado de serviços de computação, como armazenamento, base de dados, rede, infraestrutura, análise de dados, software, através da Internet, e tem como objetivo fornecer soluções escaláveis, reduzir custos com infraestrutura, contratações, manutenção e renovação de licenças. Geralmente é utilizado um servidor armazenado na nuvem, que "não existe", ou seja, em um ambiente virtualizado, pronto para atender as demandas do cliente.
 <br/>
-<br/><br/>Na computaçãoormalmente, você só paga pelos recursos utilizados, e existem diversas formas de cobrança, variando entre os fornecedores de nuvem.
+### Tipos de serviço Cloud:
+* Iaas: A infraestrutura como um serviço (IaaS) é um tipo de serviço da computação em cloud na qual o fornecedor oferece ao contratante acesso a recursos de  computação, como armazenamento, redes e servidores, onde o cliente pode rodar seus aplicativos, softwares, armazenar dados, entre outras funcionalidades.
+
+
+<br/><br/>Na computação em Nuvem você só paga pelos recursos utilizados, e existem diversas formas de cobrança, variando entre os fornecedores de nuvem.
 
 
 A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam." 
