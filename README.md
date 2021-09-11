@@ -12,18 +12,18 @@ Para melhor entender o que é Fog Computing, Edge computing e redes nebulosas, �
 # O que é Cloud Computing?
 A computação em nuvem é o fornecimento terceirizado de serviços de computação, como armazenamento, base de dados, rede, infraestrutura, análise de dados, software, através da Internet, e tem como objetivo fornecer soluções escaláveis, reduzir custos com infraestrutura, contratações, manutenção e renovação de licenças. Geralmente é utilizado um servidor armazenado na nuvem, que "não existe", ou seja, em um ambiente virtualizado, pronto para atender as demandas do cliente.
 ### Tipos de serviço Cloud:
-* Iaas: A infraestrutura como um serviço (IaaS) é um tipo de serviço da computação em cloud na qual o fornecedor oferece ao contratante acesso a recursos de  computação, como armazenamento, redes e servidores, onde o cliente pode rodar seus aplicativos, softwares, armazenar dados, entre outras funcionalidades. Exemplos de IAAS:
-  - [Amazon Web Services (AWS);](https://aws.amazon.com/pt/)
-  - [Google Cloud Platform (GCP);](https://cloud.google.com/)
-  - [Microsoft Azure;](https://azure.microsoft.com/pt-br/)
-  - [Cherry Servers;](https://www.cherryservers.com/)
-  - Entre outros.
- * Saas: O Software como Serviço (SaaS) é um tipo de serviço fornecido em nuvem onde não é necessária a instalação de software localmente. O programa é utilizado através da Internet. Existem SaaS pagos, como SaaS gratuitos. Em caso de SaaS pagos, ao ser efetuada a aquisição do serviço, a contratante fornece acesso ao produto, onde o cliente pode acessar a qualquer hora, de qualquer lugar ou dispositivo (smartphones, notebooks, tablets). Exemplos de SaaS mais conhecidos:
-  - Google Docs, Google Drive, Google Analytics;
-  - Dropbox (armazeamento);
-  - Netflix;
-  - Paypal;
-  - Entre outros.
+* IaaS: A infraestrutura como um serviço (IaaS) é um tipo de serviço da computação em cloud na qual o fornecedor oferece ao contratante acesso a recursos de  computação, como armazenamento, redes e servidores, onde o cliente pode rodar seus aplicativos, softwares, armazenar dados, entre outras funcionalidades. Exemplos de IAAS:
+   - [Amazon Web Services (AWS);](https://aws.amazon.com/pt/)
+   - [Google Cloud Platform (GCP);](https://cloud.google.com/)
+   - [Microsoft Azure;](https://azure.microsoft.com/pt-br/)
+   - [Cherry Servers;](https://www.cherryservers.com/)
+   - Entre outros.
+ * SaaS: O Software como Serviço (SaaS) é um tipo de serviço fornecido em nuvem onde não é necessária a instalação de software localmente. O programa é utilizado através da Internet. Existem SaaS pagos, como SaaS gratuitos. Em caso de SaaS pagos, ao ser efetuada a aquisição do serviço, a contratante fornece acesso ao produto, onde o cliente pode acessar a qualquer hora, de qualquer lugar ou dispositivo (smartphones, notebooks, tablets). Exemplos de SaaS mais conhecidos:
+    - Google Docs, Google Drive, Google Analytics;
+    - Dropbox (armazeamento);
+    - Netflix;
+    - Paypal;
+    - Entre outros.
 
 
 <br/><br/>Na computação em Nuvem você só paga pelos recursos utilizados, e existem diversas formas de cobrança, variando entre os fornecedores de nuvem.
