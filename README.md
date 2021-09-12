@@ -18,12 +18,26 @@ A computação em nuvem é o fornecimento terceirizado de serviços de computaç
 - Confiabilidade: fornece serviços gerenciados e confiáveis, geralmente mais estáveis do que em um produto on-premise (em infra de TI própria).
 
 ### Tipos de Nuvem:
+<p align="center">
+  <img width="460" height="300" src="https://img.mandic.com.br/blog/2018/12/nuvem-hibrida-multicloud.jpg"><br>
+  Fonte: https://www.mandic.com.br/cloud/
+</p>
+
+<br>
+
 - **Nuvem privada:** a nuvem privada é praticada por equipes internas ou empresas especializadas, com o objetivo de ser utilizada por apenas uma organização, sem o compartilhamento com outros usuários;
 - **Nuvem pública:** a nuvem pública é provida por fornecedor terceirizado que se responsabiliza pela manutenção, gestão, segurança dos dados e hospedagem. As nuvens públicas mais conhecidas atualmente são: Google Cloud Platform (GCP), Amazon Web Services (AWS) e a Microsoft Azure;
 - **Nuvem híbrida:** é a junção das duas anteriores, e serve para atender demandas diferentes. Uma nuvem privada pode ser utilizada para suprir processamento/armazenamento/banda em momentos de alto uso de recursos (picos), ou o cliente pode optar por armazenar arquivos mais sigilosos em sua nuvem privada, e processos comuns em nuvens públicas. São várias as possibilidades de uso.
+- **Multicloud:** é possível ainda o uso de dois ou mais provedores de Cloud, a fim de garantir a disponibilidade e não ficar preso a um só.
 
 
 ### Tipos de serviço Cloud:
+
+<p align="center">
+  <img width="460" height="300" src="https://infob.com.br/wp-content/uploads/2016/04/Tipos_de_Cloud.jpg"><br>
+  Fonte: https://infob.com.br/cuidado-com-fornecedores-de-nuvem/
+</p>
+
 * IaaS: A infraestrutura como um serviço (IaaS ou Infrastructure As A Service) é um tipo de serviço da computação em cloud na qual o fornecedor oferece ao contratante acesso a recursos de  computação, como armazenamento, redes e servidores, onde o cliente pode rodar seus aplicativos, softwares, armazenar dados, entre outras funcionalidades. Exemplos de IAAS:
    - [Amazon Web Services (AWS);](https://aws.amazon.com/pt/)
    - [Google Cloud Platform (GCP);](https://cloud.google.com/)
@@ -41,10 +55,7 @@ A computação em nuvem é o fornecimento terceirizado de serviços de computaç
     - [RedHat Openshift;](https://www.redhat.com/pt-br/technologies/cloud-computing/openshift)
     - IBM Cloud, AWS, GCP, entre outros.
 
-### Formas de pagamento
 
-
-<br/><br/>Na computação em Nuvem você só paga pelos recursos utilizados, e existem diversas formas de cobrança, variando entre os fornecedores de nuvem.
 
 
 A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligêancia, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam." 
