@@ -1,6 +1,6 @@
 
 
-# Fog Computing, Edge Computing e Redes nebulosas
+# Cloud Computing, Fog Computing, Edge Computing e Redes nebulosas
 
 <p align="center">
   <img width="460" height="300" src="https://cdn.dribbble.com/users/19532/screenshots/1654816/media/392a7eec41acce24ec7df16659836f23.gif">
