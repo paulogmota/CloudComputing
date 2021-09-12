@@ -18,9 +18,9 @@ A computação em nuvem é o fornecimento terceirizado de serviços de computaç
 - Confiabilidade: fornece serviços gerenciados e confiáveis, geralmente mais estáveis do que em um produto on-premise (em infra de TI própria).
 
 ### Tipos de Nuvem:
-- **Nuvem privada:** 
-- **Nuvem pública:** 
-- **Nuvem híbrida:** 
+- **Nuvem privada:** a nuvem privada é praticada por equipes internas ou empresas especializadas, com o objetivo de ser utilizada por apenas uma organização, sem o compartilhamento com outros usuários;
+- **Nuvem pública:** a nuvem pública é provida por fornecedor terceirizado que se responsabiliza pela manutenção, gestão, segurança dos dados e hospedagem. As nuvens públicas mais conhecidas atualmente são: Google Cloud Platform (GCP), Amazon Web Services (AWS) e a Microsoft Azure;
+- **Nuvem híbrida:** é a junção das duas anteriores, e serve para atender demandas diferentes. Uma nuvem privada pode ser utilizada para suprir processamento/armazenamento/banda em momentos de alto uso de recursos (picos), ou o cliente pode optar por armazenar arquivos mais sigilosos em sua nuvem privada, e processos comuns em nuvens públicas. São várias as possibilidades de uso.
 
 
 ### Tipos de serviço Cloud:
@@ -47,7 +47,7 @@ A computação em nuvem é o fornecimento terceirizado de serviços de computaç
 <br/><br/>Na computação em Nuvem você só paga pelos recursos utilizados, e existem diversas formas de cobrança, variando entre os fornecedores de nuvem.
 
 
-A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam." 
+A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligêancia, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam." 
 - Terceirização de infraestrutura: redução de custos com infra, elasticidade
 - Tipos de serviço: Paas(heroku), Saas(Google Docs) e Iaas (com exemplos)
 2. Fog computing:
@@ -59,16 +59,5 @@ A computação em nuvem é o fornecimento de serviços de computação, incluind
 
 
 
-
-
-
-
-
-
-
-
-
-
-[⬆ Voltar ao topo](#CloudComputing)<br>
 
   
