@@ -24,7 +24,7 @@ A computação em nuvem é o fornecimento terceirizado de serviços de computaç
     - Netflix;
     - Paypal;
     - Entre outros.
-  * PaaS: A Plataforma como Serviço (PaaS ou Platform As A Service) fornece um ambiente em nuvem voltado para o desenvolvimento e implantação de software, desde a complicação até as atualizações periódicas. O contratante se preocupa apenas com a gestão dos serviços e do produto que está sendo desenvolvido, e o provedor faz a gestao de todo o resto. Exemplos de PaaS:
+  * PaaS: A Plataforma como Serviço (PaaS ou Platform As A Service) fornece um ambiente em nuvem voltado para o desenvolvimento e implantação de software, desde a complicação até as atualizações periódicas. O contratante se preocupa apenas com a gestão dos serviços e com o produto que está sendo desenvolvido, e o provedor faz a gestao de todo o resto. Exemplos de PaaS:
     - [Heroku;](https://www.heroku.com/)
     - [RedHat Openshift;](https://www.redhat.com/pt-br/technologies/cloud-computing/openshift)
     - IBM Cloud, AWS, GCP, entre outros.
