@@ -56,6 +56,9 @@ A computação em nuvem é o fornecimento terceirizado de serviços de computaç
     - IBM Cloud, AWS, GCP, entre outros.
 
 
+citar exemplos práticos de migração pra nuvem: TIM, Nubank, banco americano Capital One
+
+
 # Edge Computing
 
 A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligêancia, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam." 
